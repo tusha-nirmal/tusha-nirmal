@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tusha-nirmal
+- 👋 Hi, I’m @tushar-nirmal
 - 👀 I’m interested in ...machine Learning
 - 🌱 I’m currently learning ... how to read image from text
 - 💞️ I’m looking to collaborate on ...

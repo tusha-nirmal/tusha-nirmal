@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tushar-nirmal
-- 👀 I’m interested in ...machine Learning
+- 👀 I’m interested in ...machine Learning,django,reactjs
 - 🌱 I’m currently learning ... how to read image from text
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...object detection
 - 📫 How to reach me ...
 
 <!---
